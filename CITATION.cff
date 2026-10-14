@@ -1,0 +1,27 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it and the reference paper listed in the research report."
+title: "Premier League Match Outcome Prediction: Vaastav/FPL Adaptation and Autoencoder Experiments"
+type: software
+version: 0.1.0
+authors:
+  - family-names: Żyszkiewicz
+    given-names: Mikołaj
+abstract: >-
+  A research adaptation of a time-series approach to English Premier League
+  match outcome prediction, using Vaastav/Fantasy Premier League player
+  statistics and adding reconstruction-error and latent-space autoencoder
+  experiments.
+license: "NOASSERTION"
+
+preferred-citation:
+  type: conference-paper
+  authors:
+    - family-names: Wiechno
+      given-names: Weronika
+    - family-names: Bartosik
+      given-names: Bartosz
+    - family-names: Duch
+      given-names: Piotr
+  title: "Time Series and Deep Learning Approaches for Predicting English Premier League Match Outcomes"
+  year: 2025
+  doi: "10.5220/0013182500003890"

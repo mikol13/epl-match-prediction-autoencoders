@@ -1,0 +1,17 @@
+# Local data and generated artifacts
+/data/raw/
+*.csv
+*.parquet
+*.pkl
+*.joblib
+*.pt
+*.pth
+*.png
+*.pdf
+*.docx
+
+# Notebook/editor caches
+.ipynb_checkpoints/
+__pycache__/
+*.py[cod]
+.DS_Store
